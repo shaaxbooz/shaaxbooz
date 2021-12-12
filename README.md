@@ -44,6 +44,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-<!--     <img src="https://komarev.com/ghpvc/?username=iar28"> -->
+    <img src="https://komarev.com/ghpvc/?username=iar28">
 </a>
 <a href="https://github.com/shaaxbooz?tab=followers"><img src="https://img.shields.io/github/followers/shaaxbooz?label=Followers&style=social" alt="GitHub Badge"></a>
